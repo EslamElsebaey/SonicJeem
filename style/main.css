@@ -480,8 +480,8 @@ body {
 }
 .lang a span {
   transition: color linear 0.2s;
-  -webkit-margin-end: 8px;
-          margin-inline-end: 8px;
+  -webkit-margin-end: 6px;
+          margin-inline-end: 6px;
   font-size: 12px;
   color: #a09eb7;
   font-weight: 500;
