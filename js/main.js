@@ -66,7 +66,7 @@ const newsSwiper = new Swiper('.news .swiper', {
 
 const newArrivalSwiper = new Swiper(' .newArrivals .swiper', {
   loop: true,
-  // autoplay : true , 
+   autoplay : true , 
   draggable: true,
   
   pagination: {
@@ -99,7 +99,7 @@ const newArrivalSwiper = new Swiper(' .newArrivals .swiper', {
 
 const bestsellerSwiper = new Swiper(' .bestseller .swiper', {
   loop: true,
-  // autoplay : true , 
+   autoplay : true , 
   draggable: true,
   
   pagination: {
@@ -132,7 +132,7 @@ const bestsellerSwiper = new Swiper(' .bestseller .swiper', {
 
 const offersSwiper = new Swiper(' .offers .swiper', {
   loop: true,
-  // autoplay : true , 
+   autoplay : true , 
   draggable: true,
   
   pagination: {
@@ -166,7 +166,7 @@ const offersSwiper = new Swiper(' .offers .swiper', {
 
 const couponsSwiper = new Swiper(' .coupons .swiper', {
   loop: true,
-  // autoplay : true , 
+   autoplay : true , 
   draggable: true,
   
   pagination: {
