@@ -131,14 +131,14 @@ body{
         height: 100%;
         overflow: hidden;
         &::before{
-            content: url(../../../images/Shape.png);
+            content: url(../images/Shape.png);
             position: absolute;
             top: 0;
             right: -27px;
             z-index: 2;
         }
         &::after{
-            content: url(../../../images/Shape.png);
+            content: url(../images/Shape.png);
             position: absolute;
             top: 0;
             left: -27px;
